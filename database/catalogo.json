@@ -1,0 +1,42 @@
+{
+    "catalogo":[
+        {
+            "codigo": 1,
+            "titulo": "Doutor Estranho no Multiverso da Loucura",
+            "duracao": 2.1,
+            "atores": [
+                "Benedict Cumberbatch",
+                "Elizabeth Olsen",
+                "Xochitl Gomez",
+                "Bruce Campbell"
+            ],
+            "anoDeLancamento": 2022,
+            "emCartaz": true
+        },
+        {
+            "codigo": 2,
+            "titulo": "Zohan: Um agente bom de corte",
+            "duracao": 2,
+            "atores": [
+                "Adam Sandler",
+                "John Turturro",
+                "Emmanuelle Chriqui"
+            ],
+            "anoDeLancamento": 2008,
+            "emCartaz": false
+        },
+        {
+            "codigo": 3,
+            "titulo": "Roma",
+            "duracao": 2.2,
+            "atores": [
+                "Yalitza Aparicio",
+                "Marina de Tavira",
+                "Jorge Antonio Guerrero"
+            ],
+            "anoDeLancamento": 2018,
+            "emCartaz": false
+        }
+
+    ] 
+}
