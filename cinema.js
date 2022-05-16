@@ -1,5 +1,5 @@
 const catalogo = require('./database/catalogo')
-
+//teste
 let cinema = 'loja'
 
 //console.log(cinema)
